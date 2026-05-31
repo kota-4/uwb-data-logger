@@ -1,0 +1,10 @@
+# .gitignore (Java/データロガー用)
+*.class
+bin/
+build/
+out/
+target/
+.settings/
+.classpath
+.project
+.DS_Store
